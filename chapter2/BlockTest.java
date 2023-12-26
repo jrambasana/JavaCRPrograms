@@ -8,7 +8,6 @@ public class BlockTest {
             System.out.println("This is x " + x);
             System.out.println("This is y " + y);
             y = y - 2;
-
         }
     }
 }
